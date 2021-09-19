@@ -1,0 +1,16 @@
+{
+"companyName": "Charles Li",
+"productName": "IV Asm2",
+"productVersion": "2",
+"dataUrl": "IV.data.unityweb",
+"wasmCodeUrl": "IV.wasm.code.unityweb",
+"wasmFrameworkUrl": "IV.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.27f1c1"
+}
